@@ -1,5 +1,3 @@
------
-
 # 🕷️ Homens-Aranha em Foco: Classificador de Versões
 
 Este projeto de Visão Computacional utiliza **Transfer Learning** com o modelo VGG16 para classificar imagens de diferentes versões do Homem-Aranha, distinguindo entre:
@@ -153,4 +151,3 @@ Sinta-se à vontade para contribuir com este projeto\! Ideias incluem:
   * Adicionar aumento de dados para melhorar a robustez do modelo.
   * Criar uma interface gráfica simples para as previsões.
 
------
